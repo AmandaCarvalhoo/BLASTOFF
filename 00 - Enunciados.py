@@ -2,7 +2,7 @@
 Teste de lógica BLASTOFF ------
 
 FOI FEITO TODO EM LINGUAGEM PYTHON
-OBS: Todas as questões foram respondidas exceto: QUESTÃO 5, 6 e 13. Pois ainda não estudei esses assuntos.
+OBS: Todas as questões foram respondidas exceto: QUESTÃO 5 e 13. Pois ainda não estudei esses assuntos.
 Todas os arquivos que terminam com .._C significa que estão completos/resolvidos
 
 #(feito)1- Dada as idades I, J, K, X, Y. Faça um algoritmo para calcular a média das idades.
