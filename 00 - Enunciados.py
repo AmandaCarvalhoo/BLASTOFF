@@ -2,7 +2,7 @@
 Teste de lógica BLASTOFF ------
 
 FOI FEITO TODO EM LINGUAGEM PYTHON
-OBS: Todas as questões foram respondidas exceto: QUESTÃO 5 e 13. Pois ainda não estudei esses assuntos.
+OBS: Todas as questões foram respondidas exceto: QUESTÃO 13. Pois ainda não estudei matrizes.
 Todas os arquivos que terminam com .._C significa que estão completos/resolvidos
 
 #(feito)1- Dada as idades I, J, K, X, Y. Faça um algoritmo para calcular a média das idades.
@@ -15,9 +15,9 @@ médio.
 #(feito)4 - Faça um algoritmo que converta a temperatura de C para F. Utilize a fórmula
     C= 5/9 (F + 32)########
 
-5 - Faça um algoritmo para apresentar se dois números são múltiplos.
+#(feito) 5 - Faça um algoritmo para apresentar se dois números são múltiplos.
 
-6 - Uma partida de futebol iniciou na hora A e terminou na hora B. Faça um algoritmo que
+#(feito) 6 - Uma partida de futebol iniciou na hora A e terminou na hora B. Faça um algoritmo que
 calcule o tempo que durou a partida.
 
 #(feito) 7 - Dada uma lista de números A[1,2,3,…], faça um algoritmo que retorne uma lista somente
